@@ -1,0 +1,23 @@
+{
+  "short_name": "Kharcha App",
+  "name": "Kharcha Tracker",
+  "description": "A simple app to track group expenses.",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/5E5CE6/FFFFFF?text=KT",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/5E5CE6/FFFFFF?text=Kharcha",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5E5CE6",
+  "background_color": "#F2F2F7"
+}
